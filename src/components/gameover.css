@@ -1,0 +1,22 @@
+.score-label {
+  font-size: 25px
+}
+
+.score-point {
+  font-size: 45px;
+  font-variant: small-caps;
+   margin: -10px auto 0px auto;
+}
+
+.score-box {
+  display: flex;
+  margin: 90px auto;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.radio-container div {
+  display: inline-block;
+  margin: 25px 10px 40px 10px;
+}
